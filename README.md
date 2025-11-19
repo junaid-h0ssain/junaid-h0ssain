@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Junaid Hossain</h1>
+<h1 align="center">Hi, I'm Junaid Hossain</h1>
 <h3 align="center">A passionate CSE student from Bangladesh</h3>
 
 <!-- <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="coding" /> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=junaid-h0ssain&label=Profile%20views&color=0e75b6&style=flat" alt="junaid-h0ssain" /> </p>
 
-- 🔭 I’m currently Studying at **East Delta University**
+- I’m currently Studying at **East Delta University**
 
-- 📫 How to reach me **junaid0182@outlook.com**
-<!-- - 📄 Know about my experiences [Link to Your Resume/CV](https://link-to-your-cv) -->
+- How to reach me **junaid0182@outlook.com**
+<!-- -  Know about my experiences [Link to Your Resume/CV](https://link-to-your-cv) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
