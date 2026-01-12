@@ -52,11 +52,11 @@
 
 ---
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=junaid-h0ssain&show_icons=true&locale=en&layout=compact&theme=dark&hide=jupyter%20notebook" alt="junaid-h0ssain" />
+<!-- <p align="center"> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=junaid-h0ssain&show_icons=true&locale=en&layout=compact&theme=dark&hide=jupyter%20notebook" alt="junaid-h0ssain" />
 <img src="https://github-readme-stats.vercel.app/api?username=junaid-h0ssain&show_icons=true&locale=en&theme=dark" alt="junaid-h0ssain" />
-</p>
+</p> -->
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=junaid-h0ssain&theme=dark" alt="junaid-h0ssain" />
-</p>
+<!-- <p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=junaid-h0ssain&theme=dark" alt="junaid-h0ssain" /> 
+</p> -->
